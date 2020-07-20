@@ -1,5 +1,7 @@
 # Developer 👨‍💻
 
+![>_<](https://pbs.twimg.com/profile_banners/895266993720446976/1595277780/1500x500)
+
 Developer, Web-designer, Computer Science student, Math enthusiast. Love reading books, solving math and programming problems.
 
 **Projects 📜:**
